@@ -37,7 +37,7 @@ function Header() {
           <span className="logo-text">{getText("header.logo", language)}</span>
           <span className="logo-separator">|</span>
           <span className="logo-wholesale">{getText("header.wholesale", language)}</span>
-          <a href="tel:+1234567890" className="header-phone">
+          <a href="tel:+8801711992558" className="header-phone">
             {getText("header.phone", language)}
           </a>
         </div>
@@ -78,7 +78,7 @@ function Header() {
           </ul>
 
           <div className="contact-info">
-            <a href="tel:+1234567890" className="phone-link">
+            <a href="tel:+8801711992558" className="phone-link">
               {getText("header.phone", language)}
             </a>
             <a

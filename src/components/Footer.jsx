@@ -21,7 +21,7 @@ function Footer() {
             <h3 className="footer-title">{getText("footer.contact.title", language)}</h3>
             <ul className="footer-links">
               <li>
-                <a href="tel:+1234567890" className="footer-link">
+                <a href="tel:+880711992558" className="footer-link">
                   {getText("header.phone", language)}
                 </a>
               </li>

@@ -82,7 +82,7 @@ function Header() {
               {getText("header.phone", language)}
             </a>
             <a
-              href={`https://wa.me/1234567890?text=${encodeURIComponent(
+              href={`https://wa.me/+8801711992558?text=${encodeURIComponent(
                 language === "bn"
                   ? "হ্যালো গার্মেন্টিক পাইকারি, আমি আপনার পণ্য সম্পর্কে আগ্রহী।"
                   : "Hello Garmentik Wholesale, I'm interested in your products.",

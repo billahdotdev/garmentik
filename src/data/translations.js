@@ -10,8 +10,8 @@ export const translations = {
       en: "Wholesale",
     },
     phone: {
-      bn: "+১ (২৩৪) ৫৬৭-৮৯০",
-      en: "+1 (234) 567-890",
+      bn: "+8801711992558",
+      en: "+8801711992558",
     },
     menu: {
       bn: "মেনু দেখুন",

@@ -27,7 +27,7 @@ function Footer() {
               </li>
               <li>
                 <a href="mailto:info@garmentik.com" className="footer-link">
-                  info@garmentik.com
+                  garmentikbd.com
                 </a>
               </li>
               <li>

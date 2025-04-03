@@ -53,8 +53,8 @@ export const translations = {
         en: "All",
       },
       basic: {
-        bn: "সাধারণ",
-        en: "বেসিক",
+        bn: "বেসিক",
+        en: "Basic",
       },
       premium: {
         bn: "প্রিমিয়াম",
@@ -70,7 +70,7 @@ export const translations = {
       },
       fashion: {
         bn: "ফ্যাশনেবল",
-        en: "Fashion",
+        en: "Fashionable",
       },
     },
     wholesalePrice: {

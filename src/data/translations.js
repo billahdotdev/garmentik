@@ -148,7 +148,7 @@ export const translations = {
       en: "About Us",
     },
     subtitle: {
-      bn: "গার্মেন্টিক |  পাইকারি - আপনার ব্র্যান্ডের জন্য টি-শার্ট সরবরাহকারী",
+      bn: "গার্মেন্টিক |  পাইকারি - আপনার ব্র্যান্ডের/ বিজনেসের জন্য টি-শার্ট সরবরাহকারী",
       en: "Garmentik | Wholesale - Your Premium T-Shirt Supplier for Your Brand",
     },
     imageAlt: {
@@ -161,8 +161,8 @@ export const translations = {
         en: "Our Story",
       },
       content: {
-        bn: "২০১৫ সালে প্রতিষ্ঠিত, গার্মেন্টিক পাইকারি একটি ছোট ওয়ার্কশপ থেকে শুরু করে এখন বাংলাদেশের অন্যতম প্রধান টি-শার্ট পাইকারি সরবরাহকারী হিসেবে পরিণত হয়েছে। আমরা উচ্চমানের কাপড়, নিখুঁত কারিগরি, এবং অসাধারণ গ্রাহক সেবার প্রতি আমাদের অঙ্গীকারের মাধ্যমে এই শিল্পে একটি নাম তৈরি করেছি। আমাদের লক্ষ্য হল ছোট থেকে মাঝারি আকারের ব্র্যান্ডগুলিকে তাদের নিজস্ব অনন্য পরিচয় তৈরি করতে সাহায্য করা।",
-        en: "Founded in 2015, Garmentik Wholesale started as a small workshop and has now grown into one of Bangladesh's leading t-shirt wholesale suppliers. We've built a reputation in the industry through our commitment to quality fabrics, impeccable craftsmanship, and exceptional customer service. Our mission is to help small to medium-sized brands create their own unique identity.",
+        bn: "২০০৯ সাল থেকে, গার্মেন্টিক একটি ছোট রপ্তানি উদ্যোগ থেকে আমাদের ক্লায়েন্টদের বিশ্বস্ত বৈশ্বিক অংশীদারে পরিণত হয়েছে। এখন, সেই একই গুণমান এবং যত্নের উপর ভিত্তি করে, গার্মেন্টিক | হোলসেল স্থানীয় ব্র্যান্ড/ব্যবসাগুলোকে তাদের নিজস্ব স্বতন্ত্র পণ্য তৈরি করতে সহায়তা করে।",
+        en: "From 2009, Garmentik grew from a small workshop to a trusted global partner of our clients. Now, built on the same quality and care, GARMENTIK | Wholesale empowers local brands/ businesses to create their own unique product line.",
       },
     },
     mission: {

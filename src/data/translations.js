@@ -171,7 +171,7 @@ export const translations = {
         en: "Our Mission",
       },
       content: {
-        bn: "আমাদের লক্ষ্য হল উদীয়মান ফ্যাশন ব্র্যান্ডগুলিকে উচ্চমানের টি-শার্ট সরবরাহ করা যা তাদের ব্যবসাকে বাড়াতে সাহায্য করবে। আমরা বিশ্বাস করি যে প্রতিটি ব্র্যান্ডের সফলতা শুধুমাত্র তাদের ডিজাইনের উপর নয়, বরং তাদের পণ্যের মানের উপরও নির্ভর করে। আমরা আমাদের গ্রাহকদের সাথে দীর্ঘমেয়াদী সম্পর্ক গড়ে তুলতে চাই, তাদের ব্যবসার বৃদ্ধির সাথে সাথে আমরাও বাড়তে চাই।",
+        bn: "আমাদের লক্ষ্য হল উদীয়মান ফ্যাশন ব্র্যান্ডগুলিকে ভালো মানের টি-শার্ট সরবরাহ করা যা তাদের ব্যবসাকে বাড়াতে সাহায্য করবে। আমরা বিশ্বাস করি যে প্রতিটি ব্র্যান্ডের সফলতা শুধুমাত্র তাদের ডিজাইনের উপর নয়, বরং তাদের পণ্যের মানের উপরও নির্ভর করে। আমরা আমাদের গ্রাহকদের সাথে দীর্ঘমেয়াদী সম্পর্ক গড়ে তুলতে চাই, তাদের ব্যবসার বৃদ্ধির সাথে সাথে আমরাও বাড়তে চাই।",
         en: "Our mission is to provide emerging fashion brands with high-quality t-shirts that will help grow their business. We believe that a brand's success depends not only on their designs but also on the quality of their products. We aim to build long-term relationships with our clients, growing alongside their businesses.",
       },
     },

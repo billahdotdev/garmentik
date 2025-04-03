@@ -148,8 +148,8 @@ export const translations = {
       en: "About Us",
     },
     subtitle: {
-      bn: "গার্মেন্টিক পাইকারি - আপনার ব্র্যান্ডের জন্য উচ্চমানের টি-শার্ট সরবরাহকারী",
-      en: "Garmentik Wholesale - Your Premium T-Shirt Supplier for Your Brand",
+      bn: "গার্মেন্টিক |  পাইকারি - আপনার ব্র্যান্ডের জন্য টি-শার্ট সরবরাহকারী",
+      en: "Garmentik | Wholesale - Your Premium T-Shirt Supplier for Your Brand",
     },
     imageAlt: {
       bn: "গার্মেন্টিক পাইকারি কারখানা",
@@ -232,7 +232,7 @@ export const translations = {
     },
     contact: {
       title: {
-        bn: "যোগাযোগের ঠিকানা",
+        bn: "যোগাযোগ",
         en: "Contact",
       },
       address: {

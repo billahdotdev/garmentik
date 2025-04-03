@@ -49,8 +49,7 @@ function Footer() {
             <h3 className="footer-title">{getText("footer.hours.title", language)}</h3>
             <ul className="footer-hours">
               <li>{getText("footer.hours.weekdays", language)}</li>
-              <li>{getText("footer.hours.saturday", language)}</li>
-              <li>{getText("footer.hours.sunday", language)}</li>
+              <li>{getText("footer.hours.friday", language)}</li>
             </ul>
           </div>
         </div>

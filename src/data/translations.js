@@ -250,7 +250,7 @@ export const translations = {
         en: "Saturday - Thursday: 9AM - 6PM",
       },
       
-      sunday: {
+      friday: {
         bn: "শুক্রবার: বন্ধ",
         en: "Friday: Closed",
       },

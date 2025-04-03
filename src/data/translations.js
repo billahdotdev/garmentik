@@ -242,8 +242,8 @@ export const translations = {
     },
     hours: {
       title: {
-        bn: "",
-        en: "বিজনেস টাইম",
+        bn: "বিজনেস টাইম",
+        en: "Business Hours",
       },
       weekdays: {
         bn: "শনিবার - বৃহস্পতিবার: সকাল ৯টা - সন্ধ্যা ৬টা",

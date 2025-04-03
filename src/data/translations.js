@@ -44,7 +44,7 @@ export const translations = {
   // Product section translations
   products: {
     title: {
-      bn: "আমাদের পণ্য সংগ্রহ",
+      bn: "আমাদের কালেকশন",
       en: "Our Collection",
     },
     categories: {
@@ -82,7 +82,7 @@ export const translations = {
   // Custom production translations
   customProduction: {
     title: {
-      bn: "কাস্টম উৎপাদন সেবা",
+      bn: "কাস্টম প্রোডাকশন",
       en: "Custom Production",
     },
     subtitle: {
@@ -112,7 +112,7 @@ export const translations = {
       },
       bulkProduction: {
         title: {
-          bn: "বড় পরিমাণে উৎপাদন",
+          bn: "বড় প্রোডাকশন",
           en: "Bulk Production",
         },
         content: {
@@ -242,20 +242,17 @@ export const translations = {
     },
     hours: {
       title: {
-        bn: "কার্যালয়ের সময়",
-        en: "Business Hours",
+        bn: "",
+        en: "বিজনেস টাইম",
       },
       weekdays: {
-        bn: "সোমবার - শুক্রবার: সকাল ৯টা - সন্ধ্যা ৬টা",
-        en: "Monday - Friday: 9AM - 6PM",
+        bn: "শনিবার - বৃহস্পতিবার: সকাল ৯টা - সন্ধ্যা ৬টা",
+        en: "Saturday - Thursday: 9AM - 6PM",
       },
-      saturday: {
-        bn: "শনিবার: সকাল ১০টা - বিকাল ৪টা",
-        en: "Saturday: 10AM - 4PM",
-      },
+      
       sunday: {
-        bn: "রবিবার: বন্ধ",
-        en: "Sunday: Closed",
+        bn: "শুক্রবার: বন্ধ",
+        en: "Friday: Closed",
       },
     },
     copyright: {
@@ -271,11 +268,11 @@ export const translations = {
       en: "Features",
     },
     availableSizes: {
-      bn: "উপলব্ধ সাইজসমূহ",
+      bn: "সাইজসমূহ",
       en: "Available Sizes",
     },
     availableColors: {
-      bn: "উপলব্ধ রঙসমূহ",
+      bn: "কালারসমূহ",
       en: "Available Colors",
     },
     colors: {
@@ -292,7 +289,7 @@ export const translations = {
         en: "Navy",
       },
       gray: {
-        bn: "ধূসর",
+        bn: "গ্রে",
         en: "Gray",
       },
     },

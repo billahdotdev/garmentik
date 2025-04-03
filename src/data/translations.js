@@ -161,8 +161,8 @@ export const translations = {
         en: "Our Story",
       },
       content: {
-        bn: "২০০৯ সাল থেকে, গার্মেন্টিক একটি ছোট রপ্তানি উদ্যোগ থেকে আমাদের ক্লায়েন্টদের বিশ্বস্ত বৈশ্বিক অংশীদারে পরিণত হয়েছে। এখন, সেই একই গুণমান এবং যত্নের উপর ভিত্তি করে, গার্মেন্টিক | হোলসেল স্থানীয় ব্র্যান্ড/ব্যবসাগুলোকে তাদের নিজস্ব স্বতন্ত্র পণ্য তৈরি করতে সহায়তা করে।",
-        en: "From 2009, Garmentik grew from a small workshop to a trusted global partner of our clients. Now, built on the same quality and care, GARMENTIK | Wholesale empowers local brands/ businesses to create their own unique product line.",
+        bn: "২০০৯ সাল থেকে, 'গার্মেন্টিক' একটি ছোট রপ্তানি উদ্যোগ থেকে আমাদের ক্লায়েন্টদের বিশ্বস্ত বৈশ্বিক অংশীদারে পরিণত হয়েছে। এখন, সেই একই মান এবং যত্নের উপর ভিত্তি করে, 'গার্মেন্টিক | পাইকারি' স্থানীয় ব্র্যান্ড/ব্যবসাগুলোকে তাদের নিজস্ব স্বতন্ত্র পণ্য তৈরি করতে সহায়তা করে।",
+        en: "From 2009, 'GARMENTIK' grew from a small workshop to a trusted global partner of our clients. Now, built on the same quality and care, 'GARMENTIK | Wholesale' empowers local brands/ businesses to create their own unique product line.",
       },
     },
     mission: {

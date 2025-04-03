@@ -19,11 +19,11 @@ export const translations = {
     },
     nav: {
       products: {
-        bn: "আমাদের পণ্যসমূহ",
+        bn: "প্রোডাক্টস",
         en: "Products",
       },
       custom: {
-        bn: "কাস্টম উৎপাদন",
+        bn: "কাস্টম প্রোডাকশন",
         en: "Custom Production",
       },
       about: {
@@ -31,7 +31,7 @@ export const translations = {
         en: "About Us",
       },
       contact: {
-        bn: "যোগাযোগ করুন",
+        bn: "যোগাযোগ",
         en: "Contact",
       },
     },
@@ -49,23 +49,23 @@ export const translations = {
     },
     categories: {
       all: {
-        bn: "সব ধরনের",
+        bn: "সব",
         en: "All",
       },
       basic: {
         bn: "সাধারণ",
-        en: "Basic",
+        en: "বেসিক",
       },
       premium: {
         bn: "প্রিমিয়াম",
         en: "Premium",
       },
       eco: {
-        bn: "পরিবেশবান্ধব",
+        bn: "ইকো",
         en: "Eco",
       },
       athletic: {
-        bn: "খেলাধুলার",
+        bn: "স্পোর্টস",
         en: "Athletic",
       },
       fashion: {
@@ -74,7 +74,7 @@ export const translations = {
       },
     },
     wholesalePrice: {
-      bn: "পাইকারি মূল্য",
+      bn: "পাইকারি দাম",
       en: "Wholesale Price",
     },
   },

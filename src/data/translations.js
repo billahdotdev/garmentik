@@ -218,7 +218,7 @@ export const translations = {
     company: {
       title: {
         bn: "গার্মেন্টিক",
-        en: "Garmentik",
+        en: "GARMENTIK",
       },
       description: {
         bn: "আপনার ব্র্যান্ডের জন্য উন্নতমানের পাইকারি টি-শার্ট। সেরা মানের কাপড়, দক্ষ কারিগরি, এবং প্রতিযোগিতামূলক মূল্য।",
